@@ -1,10 +1,6 @@
 from http.client import RemoteDisconnected
 import socket
 import subprocess   
-import sys
-
-from datetime import datetime
-
 
 
 def LocalNetworkIp():
